@@ -34,7 +34,7 @@ namespace MyTest
             Assert.AreEqual(user.LoginName, model.LoginName);
 
             //路径不存在，应返回null
-            UserModel modelnull = serialization.ReadXml<UserModel>(@"F:\notexists.seri");
+            UserModel modelnull = serialization.ReadXml<UserModel>(@"C:\notexists.seri");
             Assert.IsNull(modelnull);
         }
     }
