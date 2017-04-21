@@ -1,0 +1,7 @@
+c:\users\admin\documents\visual studio 2012\Projects\UnitTestDemo\MyTest\obj\Debug\MyTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\UnitTestDemo\MyTest\bin\Debug\MyTest.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\UnitTestDemo\MyTest\bin\Debug\MyTest.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\UnitTestDemo\MyTest\bin\Debug\Models.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\UnitTestDemo\MyTest\bin\Debug\Models.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\UnitTestDemo\MyTest\obj\Debug\MyTest.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\UnitTestDemo\MyTest\obj\Debug\MyTest.pdb

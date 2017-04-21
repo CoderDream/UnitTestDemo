@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\UnitTestDemo\Models\bin\Debug\Models.dll
+c:\users\admin\documents\visual studio 2012\Projects\UnitTestDemo\Models\bin\Debug\Models.pdb
+c:\users\admin\documents\visual studio 2012\Projects\UnitTestDemo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\UnitTestDemo\Models\obj\Debug\Models.dll
+c:\users\admin\documents\visual studio 2012\Projects\UnitTestDemo\Models\obj\Debug\Models.pdb
