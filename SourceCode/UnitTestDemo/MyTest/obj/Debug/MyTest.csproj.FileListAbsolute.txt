@@ -5,3 +5,10 @@ C:\Users\Admin\Documents\Visual Studio 2012\Projects\UnitTestDemo\MyTest\bin\Deb
 C:\Users\Admin\Documents\Visual Studio 2012\Projects\UnitTestDemo\MyTest\bin\Debug\Models.pdb
 C:\Users\Admin\Documents\Visual Studio 2012\Projects\UnitTestDemo\MyTest\obj\Debug\MyTest.dll
 C:\Users\Admin\Documents\Visual Studio 2012\Projects\UnitTestDemo\MyTest\obj\Debug\MyTest.pdb
+D:\Dev\GitHub\UnitTestDemo\SourceCode\UnitTestDemo\MyTest\bin\Debug\MyTest.dll
+D:\Dev\GitHub\UnitTestDemo\SourceCode\UnitTestDemo\MyTest\bin\Debug\MyTest.pdb
+D:\Dev\GitHub\UnitTestDemo\SourceCode\UnitTestDemo\MyTest\bin\Debug\Models.dll
+D:\Dev\GitHub\UnitTestDemo\SourceCode\UnitTestDemo\MyTest\bin\Debug\Models.pdb
+D:\Dev\GitHub\UnitTestDemo\SourceCode\UnitTestDemo\MyTest\obj\Debug\MyTest.csprojResolveAssemblyReference.cache
+D:\Dev\GitHub\UnitTestDemo\SourceCode\UnitTestDemo\MyTest\obj\Debug\MyTest.dll
+D:\Dev\GitHub\UnitTestDemo\SourceCode\UnitTestDemo\MyTest\obj\Debug\MyTest.pdb
